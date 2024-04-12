@@ -12,7 +12,7 @@ This repository serves as a Proof of Concept (PoC) for connecting to OpenAI's Ch
 
 To get started with this PoC, follow these steps:
 
-1. **Clone the Repository**: Clone this repository to your local machine using `git clone https://github.bus.zalan.do/cfaurie/OpenAI-ChatGPT-Translation-PoC.git`.
+1. **Clone the Repository**: Clone this repository to your local machine using `git clone https://github.com/chloe4E/OpenAI-ChatGPT-Translation-PoC.git`.
 
 2. **Set Up OpenAI API**: Sign up for OpenAI API access and obtain your API key. Refer to OpenAI's documentation for instructions on obtaining the API key. Create a .env file with a variable `OPENAI_API_KEY`
 
